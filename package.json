@@ -1,0 +1,16 @@
+{
+  "name": "new-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "start": "node js-scraper/scrapers.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.4.2",
+    "puppeteer": "^2.0.0"
+  }
+}
